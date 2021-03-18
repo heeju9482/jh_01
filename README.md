@@ -19,4 +19,4 @@
 ```
 ***
 
-<img width="" height="" src="./png/KakaoTalk_20201213_193144674.png"></img>
+<img width="" height="" src="./png/곰돌이.png"></img>
