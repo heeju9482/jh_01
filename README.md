@@ -19,4 +19,4 @@
 ```
 ***
 
-<img width="" height="" src="./png/KakaoTalk_20201213_193144674.png"></ing>
+<img width="" height="" src="./png/KakaoTalk_20201213_193144674.png"></img>
