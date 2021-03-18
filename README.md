@@ -1,7 +1,7 @@
 # jh_01
 ##jh_01
 
-[네이버] (http:s//naver.com)
+[네이버] (https://naver.com)
 
 * 첫 번째
   * 두 번째
